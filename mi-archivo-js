@@ -1,1 +1,2 @@
 alert("Hola mundo dede git EDITADO");
+console.log("se agrega LOG");
